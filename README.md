@@ -8,7 +8,7 @@
 
 ![](https://i.ibb.co/NTyndrF/p-nmap.png)
 
-NMAP Scanner for beginners those who have not enough idea about what NMAP can do. Do not use this for wrong purpose use for test and educational purpose and never do any NMAP Scan on any network without the permission of the ownwer.
+NMAP Scanner for beginners those who have not enough idea about what NMAP can do. Do not use this for wrong purpose use for test and educational purpose and never do any NMAP Scan on any network without the permission of the owner.
 
 ## Getting Started
 
@@ -31,7 +31,7 @@ Its easy to install just follow the step one by one :-
 ```bash
 1.) sudo apt-get update
 2.) sudo apt-get upgrade
-3.) git clone https://github.com/ASHWIN990/NMAP-Scannner.git
+3.) git clone https://github.com/JayKotadia/NMAP-Scan.git
 4.) cd NMAP-Scanner
 5.) chmod +x install.sh
 6.) chmod +x nmap-scanner.sh
@@ -41,6 +41,6 @@ Its easy to install just follow the step one by one :-
 
 ## Author
 
-* **ASHWINI SAHU** - *WHOLE WORK* - (https://github.com/ASHWIN990)
+* **AnonUser** - *WHOLE WORK* - (https://github.com/JayKotadia)
 
 Check NMAP website for more help : (https://nmap.org/)
